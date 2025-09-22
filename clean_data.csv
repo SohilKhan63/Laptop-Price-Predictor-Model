@@ -1,0 +1,770 @@
+price,mrp,star_rating,off,brand,number_of_ratings,number_of_review,IS_Touchscreen,processor,Ram_GB,memory_,ssd_type,warranty_year,Operating_system,bit_type,generation,display_category,display_inch
+20990,29990,3.9,0.3,Acer,1322,120,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i5,32, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, DDR4 ,128,1,Windows 11,1,10 Gen,Small,11.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,4, LPDDR4X ,128,1,Windows 11,0,11 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,1,10 Gen,Small,11.6
+20990,29990,3.9,0.3,Acer,1322,120,0,AMD Ryzen 7,16, DDR4 ,0,1,Windows 11,1,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,1,10 Gen,Small,11.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, LPDDR4X ,512,1,Windows 11,0,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,AMD Ryzen 5,16, DDR5 ,512,2,Windows 11,0,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,12, LPDDR4X ,256,1,Windows 11,0,10 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+20990,29990,3.9,0.3,Acer,1322,120,0,Intel Core i3,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+20990,29990,3.9,0.3,Acer,1322,120,0,Other Intel processors,8, LPDDR4X ,256,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,12, LPDDR4X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,1,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, DDR5 ,512,2,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, DDR4 ,0,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,2,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR5 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 3,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Others,4, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, LPDDR5 ,0,1,Windows 11,1,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,4, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+31800,50990,4.2,0.37,MSI,61,9,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Other Intel processors,8, LPDDR4 ,256,1,Windows 11,1,10 Gen,Medium,14.1
+31800,50990,4.2,0.37,MSI,61,9,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+31800,50990,4.2,0.37,MSI,61,9,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core Ultra,16, LPDDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i7,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i7,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,32, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i3,16, DDR4 ,0,1,Windows 11,0,12 Gen,Large,15.6
+31800,50990,4.2,0.37,MSI,61,9,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+31800,50990,4.2,0.37,MSI,61,9,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,11 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i3,16, DDR5 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i7,16, DDR5 ,0,2,Windows 11,0,11 Gen,Large,16.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i7,16, DDR4 ,0,1,Windows 11,1,11 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 7,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,1,Intel Core i3,8, LPDDR4X ,512,1,Windows 11,0,11 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,1,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+35990,61990,4.4,0.41,MSI,4791,540,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+35990,61990,4.4,0.41,MSI,4791,540,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 7,16, DDR4 ,0,1,Windows 11,1,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Other Intel processors,16, DDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Others,8, LPDDR4 ,256,1,Windows 11,0,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,32, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Others,8, DDR4 ,256,1,Windows 11,1,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,AMD Ryzen 3,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+50090,66090,4.2,0.24,Lenovo,2523,130,0,Intel Core i5,8, LPDDR5 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,8, DDR4 ,0,1,Windows 10,1,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,4, LPDDR4 ,0,1,other,1,10 Gen,Medium,0.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Others,0,LPDDR4X,0,1,other,0,11 Gen,Medium,0.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 7,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR4 ,0,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,1,11 Gen,Medium,15.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,256,1,Windows 10,1,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, LPDDR5X ,512,1,Windows 11,0,11 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,AMD Ryzen 7,16, DDR4 ,0,1,Windows 11,0,10 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+59990,79990,4.4,0.25,ASUS,611,51,0,Other Intel processors,8, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+59990,79990,4.4,0.25,ASUS,611,51,1,AMD Ryzen 7,16, LPDDR4X ,512,1,Windows 11,1,10 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,1,Intel Core i3,8, LPDDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,1,Others,4, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,13.3
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, LPDDR5 ,0,1,Windows 11,0,11 Gen,Large,16.0
+59990,79990,4.4,0.25,ASUS,611,51,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+59990,79990,4.4,0.25,ASUS,611,51,0,Intel Core i3,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+59990,79990,4.4,0.25,ASUS,611,51,0,AMD Ryzen 5,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i3,16, DDR5 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,AMD Ryzen 7,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52990,84990,4.0,0.37,ASUS,107,9,0,Others,4, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+52990,84990,4.0,0.37,ASUS,107,9,1,Intel Core i3,8, LPDDR4X ,512,1,Windows 11,0,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+52990,84990,4.0,0.37,ASUS,107,9,0,Others,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Large,16.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,1,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,AMD Ryzen 7,8, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Other Intel processors,16, DDR4 ,0,1,Windows 11,0,11 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,0,12 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,Intel Core i7,16, DDR5 ,0,1,Windows 11,0,11 Gen,Large,16.0
+37990,52990,4.2,0.28,ASUS,2557,165,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 3,16, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,0,2,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Others,8, Unified Memory ,0,1,other,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, LPDDR5X ,512,1,Windows 11,0,11 Gen,Large,15.3
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.3
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,1,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, LPDDR4X ,512,1,Windows 11,0,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, DDR5 ,512,2,Windows 11,0,12 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i7,32, LPDDR5X ,0,1,Windows 11,0,11 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,12 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i7,8, DDR4 ,512,1,Windows 10,1,10 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,14 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Other Intel processors,8, LPDDR4 ,256,1,Windows 11,1,10 Gen,Medium,14.1
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i7,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,15.0
+48990,76990,3.9,0.36,Lenovo,45,4,0,Other Intel processors,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+48990,76990,3.9,0.36,Lenovo,45,4,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+51990,81990,4.1,0.36,ASUS,9,2,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,1,Intel Core i5,8, LPDDR4X ,512,1,Windows 11,1,12 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core Ultra,16, LPDDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Other Intel processors,4, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i3,32, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i7,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,16.0
+51990,81990,4.1,0.36,ASUS,9,2,0,Others,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core Ultra,16, DDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Others,8, Unified Memory ,512,1,other,0,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core Ultra,16, DDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+19990,27990,4.1,0.24,Primebook,128,7,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+19990,27990,4.1,0.24,Primebook,128,7,0,Others,8, LPDDR4X ,0,1,other,1,10 Gen,Medium,0.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,2,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.1
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 10,1,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,0,2,Windows 11,0,14 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,1,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,1,Others,16, LPDDR5X ,256,1,Windows 11,0,10 Gen,Medium,13.8
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,0,1,Windows 11,0,11 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Other Intel processors,16, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core Ultra,32, DDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,1,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core Ultra,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+66546,100663,4.0,0.33,DELL,31,1,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+66546,100663,4.0,0.33,DELL,31,1,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i3,8, LPDDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i3,8, LPDDR4X ,512,1,Windows 11,1,12 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+66546,100663,4.0,0.33,DELL,31,1,0,Others,16, Unified Memory ,256,1,other,0,10 Gen,Medium,13.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i3,8, LPDDR5X ,512,1,Windows 11,1,11 Gen,Medium,14.0
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66546,100663,4.0,0.33,DELL,31,1,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,1,11 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+42990,68990,4.2,0.37,ASUS,50,4,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,16.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,AMD Ryzen 3,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,16.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Others,36, Unified Memory ,0,1,other,0,10 Gen,Large,16.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+42990,68990,4.2,0.37,ASUS,50,4,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,AMD Ryzen 7,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,13.3
+27999,38000,4.2,0.26,Lenovo,849,60,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+27999,38000,4.2,0.26,Lenovo,849,60,0,Others,8, Unified Memory ,0,1,other,0,10 Gen,Large,16.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Others,36, Unified Memory ,0,1,other,0,10 Gen,Medium,14.0
+27999,38000,4.2,0.26,Lenovo,849,60,0,Others,8, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,8, Unified Memory ,0,1,other,0,10 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, LPDDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,12, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,256,1,Windows 10,1,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 3,16, LPDDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, DDR5 ,0,2,Windows 11,1,10 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,0,,0,1,other,0,10 Gen,Medium,0.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR5 ,0,2,Windows 11,0,11 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,16, LPDDR5 ,0,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 7,16, DDR5 ,0,1,Windows 11,0,10 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i7,8, DDR5 ,512,2,Windows 11,0,12 Gen,Large,15.6
+73190,114690,4.4,0.36,Lenovo,443,49,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,16.0
+73190,114690,4.4,0.36,Lenovo,443,49,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,0,12 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Other Intel processors,8, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+34400,62990,4.0,0.45,DELL,46,1,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,1,10 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Others,8, Unified Memory ,0,1,other,0,10 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+34400,62990,4.0,0.45,DELL,46,1,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,8, DDR4 ,0,1,Windows 11,1,11 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,15.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, LPDDR5 ,0,1,Windows 11,0,12 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+34400,62990,4.0,0.45,DELL,46,1,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+79990,115999,4.3,0.31,Acer,11,3,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,1,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Others,0,LPDDR5 ,0,1,other,0,10 Gen,Medium,0.0
+79990,115999,4.3,0.31,Acer,11,3,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,1,10 Gen,Small,11.6
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core Ultra,16, LPDDR5 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i5,12, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,0,10 Gen,Medium,14.1
+79990,115999,4.3,0.31,Acer,11,3,0,AMD Ryzen 5,8, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+79990,115999,4.3,0.31,Acer,11,3,1,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,1,Intel Core i5,8, LPDDR5 ,256,1,Windows 11,0,12 Gen,Small,12.4
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+79990,115999,4.3,0.31,Acer,11,3,0,Others,8, Unified Memory ,512,1,other,0,10 Gen,Large,16.0
+79990,115999,4.3,0.31,Acer,11,3,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+64990,82590,4.0,0.21,Lenovo,4,0,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,1,10 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i7,16, DDR4 ,0,1,Windows 11,0,12 Gen,Medium,15.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,AMD Ryzen 7,16, DDR4 ,0,1,Windows 11,0,10 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,AMD Ryzen 3,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i5,12, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Other Intel processors,4, DDR4 ,256,1,Windows 10,0,10 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Others,0,,0,1,other,0,10 Gen,Medium,0.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,1,10 Gen,Small,11.6
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i7,32, DDR5 ,0,1,Windows 11,0,11 Gen,Medium,14.0
+64990,82590,4.0,0.21,Lenovo,4,0,0,Intel Core i5,16, LPDDR5 ,0,1,Windows 11,0,12 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, LPDDR5X ,256,1,other,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,8, LPDDR4X ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,4, DDR4 ,0,1,Windows 10,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,0,1,Windows 11,0,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, LPDDR4X ,512,1,Windows 11,0,11 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,14 Gen,Large,16.1
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,4, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,32, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,4, DDR4 ,512,1,Windows 10,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR4 ,256,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,1,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,16, LPDDR4X ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,16, DDR5 ,0,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,32, DDR5 ,0,2,Windows 11,0,11 Gen,Large,17.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,32, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, LPDDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR4 ,0,2,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR4 ,512,2,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Other Intel processors,32, DDR5 ,0,1,Windows 11,0,14 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,0,1,Windows 11,0,11 Gen,Large,16.1
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,12 Gen,Large,16.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Other Intel processors,8, LPDDR5 ,256,1,Windows 11,1,12 Gen,Medium,14.1
+52999,85000,4.1,0.37,Lenovo,131,11,1,Others,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.5
+52999,85000,4.1,0.37,Lenovo,131,11,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,8, DDR4 ,512,1,Windows 10,1,11 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,1,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,1,10 Gen,Large,16.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core Ultra,32, DDR5 ,0,2,Windows 11,0,10 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core Ultra,32, DDR5 ,0,1,Windows 11,1,10 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,1,Intel Core i5,16, DDR4 ,0,1,Windows 11,1,11 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,1,10 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,AMD Ryzen 3,8, DDR5 ,512,1,Windows 11,1,10 Gen,Large,15.6
+52999,85000,4.1,0.37,Lenovo,131,11,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i7,16, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Other Intel processors,16, DDR5 ,0,1,Windows 11,0,14 Gen,Large,16.0
+45890,69999,4.2,0.34,HP,130,14,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Large,16.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,1,11 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i3,4, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+45890,69999,4.2,0.34,HP,130,14,1,Others,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,13.8
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+45890,69999,4.2,0.34,HP,130,14,0,Intel Core Ultra,16, LPDDR5 ,0,2,Windows 11,0,10 Gen,Medium,13.3
+45890,69999,4.2,0.34,HP,130,14,0,AMD Ryzen 7,8, DDR4 ,512,1,Windows 10,1,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 10,1,10 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,1,Other Intel processors,32, LPDDR5 ,0,1,Windows 11,0,12 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Other Intel processors,32, DDR5 ,0,2,Windows 11,0,11 Gen,Large,16.0
+164990,229990,4.2,0.31,MSI,72,9,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,Other Intel processors,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core Ultra,16, DDR5 ,0,2,Windows 11,1,10 Gen,Large,16.0
+164990,229990,4.2,0.31,MSI,72,9,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,Other Intel processors,8, DDR4 ,256,1,Windows 11,0,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,AMD Ryzen 5,12, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i7,4, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,AMD Ryzen 3,8, LPDDR5 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+164990,229990,4.2,0.31,MSI,72,9,0,Intel Core i7,16, DDR5 ,0,2,Windows 11,0,11 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR4 ,512,2,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,0,1,Windows 11,1,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, DDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,13.3
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,4, LPDDR4 ,0,1,other,1,10 Gen,Medium,0.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,11 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,1,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,1,12 Gen,Medium,33.78
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.1
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core Ultra,16, DDR5 ,0,2,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, LPDDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,16, LPDDR4X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Medium,13.3
+130190,174890,4.0,0.25,Lenovo,4,0,1,Others,8, LPDDR4X ,256,1,other,1,10 Gen,Medium,13.3
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,1,11 Gen,Large,16.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,1,11 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,0,Others,4, LPDDR4 ,0,1,other,1,10 Gen,Medium,0.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+35990,50990,4.3,0.29,ASUS,638,57,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,1,Intel Core i7,16, LPDDR5 ,0,1,Windows 11,0,12 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,1,10 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core Ultra,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,1,11 Gen,Large,16.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i3,8, DDR4 ,512,1,other,0,12 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+35990,50990,4.3,0.29,ASUS,638,57,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 10,1,10 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,AMD Ryzen 7,16, DDR5 ,0,1,Windows 11,0,10 Gen,Large,16.1
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i5,8, LPDDR4X ,512,1,Windows 11,0,11 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,AMD Ryzen 5,16, DDR4 ,0,1,Windows 11,0,10 Gen,Large,15.6
+35990,50990,4.3,0.29,ASUS,638,57,1,Intel Core Ultra,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+35990,50990,4.3,0.29,ASUS,638,57,0,Intel Core i3,8, DDR4 ,256,1,Windows 11,1,11 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+64990,106990,4.5,0.39,MSI,21,4,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i7,32, LPDDR4X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i7,16, DDR4 ,0,1,Windows 11,0,12 Gen,Large,16.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+64990,106990,4.5,0.39,MSI,21,4,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+64990,106990,4.5,0.39,MSI,21,4,0,Others,16, LPDDR5X ,512,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,AMD Ryzen 3,8, LPDDR5 ,256,1,Windows 11,0,10 Gen,Large,15.6
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core Ultra,16, LPDDR5 ,512,1,Windows 11,0,10 Gen,Large,16.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+64990,106990,4.5,0.39,MSI,21,4,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, LPDDR5 ,0,1,Windows 11,0,11 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Others,16, DDR5 ,0,1,Windows 11,0,10 Gen,Large,16.0
+64990,106990,4.5,0.39,MSI,21,4,1,Intel Core i7,16, DDR4X ,0,1,Windows 11,0,11 Gen,Medium,13.3
+64990,106990,4.5,0.39,MSI,21,4,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,AMD Ryzen 3,8, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core Ultra,16, DDR5 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+64990,106990,4.5,0.39,MSI,21,4,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,11 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,8, DDR4 ,512,1,Windows 10,1,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,16, DDR4 ,256,1,Windows 11,1,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Other Intel processors,8, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+84990,107990,4.4,0.21,MSI,33,6,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Others,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i3,32, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+84990,107990,4.4,0.21,MSI,33,6,0,Intel Core i7,8, DDR4 ,512,2,Windows 11,0,12 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,16, DDR5 ,512,2,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,16.1
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 7,16, DDR4 ,0,1,Windows 11,0,10 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Others,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,11 Gen,Large,15.6
+130190,174890,4.0,0.25,Lenovo,4,0,0,Intel Core i7,16, DDR5 ,0,1,Windows 11,0,14 Gen,Large,16.0
+130190,174890,4.0,0.25,Lenovo,4,0,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Others,16, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Others,0,,0,1,other,0,10 Gen,Medium,0.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, LPDDR4X ,512,1,Windows 11,0,12 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i7,16, DDR5 ,0,1,Windows 11,0,11 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,1,Others,4, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,AMD Ryzen 5,8, DDR4 ,256,1,Windows 11,1,10 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+66790,90490,4.4,0.26,Lenovo,605,50,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,AMD Ryzen 5,8, DDR4 ,512,1,Windows 10,1,10 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,1,11 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i3,16, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+66790,90490,4.4,0.26,Lenovo,605,50,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+66790,90490,4.4,0.26,Lenovo,605,50,0,AMD Ryzen 5,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 3,8, DDR4 ,256,1,Windows 11,1,10 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,12 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,1,12 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,16, DDR4 ,0,1,Windows 11,0,12 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,16, DDR4 ,512,1,Windows 11,0,11 Gen,Large,16.0
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,1,10 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,0,11 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+28490,49990,4.4,0.19,HP,15,5,0,Other Intel processors,4, DDR4 ,0,1,Windows 11,1,10 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 5,16, DDR4 ,512,1,Windows 11,0,10 Gen,Medium,15.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i7,16, DDR5 ,0,1,Windows 11,0,14 Gen,Large,16.0
+28490,49990,4.4,0.19,HP,15,5,0,Other Intel processors,4, LPDDR4X ,0,1,other,0,10 Gen,Medium,0.0
+28490,49990,4.4,0.19,HP,15,5,0,Intel Core i7,16, DDR4 ,512,2,Windows 11,0,12 Gen,Large,15.6
+28490,49990,4.4,0.19,HP,15,5,0,AMD Ryzen 3,8, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Others,0,LPDDR4X,0,1,other,0,10 Gen,Medium,0.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,12 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Other Intel processors,4, DDR4 ,256,1,Windows 11,1,10 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,AMD Ryzen 7,4, DDR5 ,512,1,Windows 11,0,10 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,1,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i7,32, DDR5 ,0,2,Windows 11,0,14 Gen,Large,16.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i5,16, LPDDR5 ,512,1,Windows 11,0,11 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i3,4, DDR4 ,0,1,other,1,10 Gen,Medium,15.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i3,8, DDR4 ,256,1,Windows 10,0,11 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i5,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Large,16.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,AMD Ryzen 7,16, DDR4 ,512,1,Windows 11,1,10 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,1,Others,16, DDR5 ,0,1,Windows 11,0,10 Gen,Large,16.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core Ultra,16, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i7,16, DDR5 ,512,1,Windows 11,0,11 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Other Intel processors,8, DDR4 ,512,1,Windows 11,0,10 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Others,0,,0,1,other,0,10 Gen,Medium,0.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,AMD Ryzen 5,8, DDR5 ,512,1,Windows 11,1,10 Gen,Large,16.1
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i3,8, DDR4 ,512,1,Windows 11,0,12 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i5,16, LPDDR5X ,0,1,Windows 11,0,11 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,1,Intel Core Ultra,32, LPDDR5X ,0,1,Windows 11,0,10 Gen,Medium,14.0
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i5,8, DDR4 ,512,1,Windows 11,1,11 Gen,Large,15.6
+65330,99990,3.9,0.34,Lenovo,35,2,0,Intel Core i7,16, LPDDR5 ,512,1,Windows 11,1,11 Gen,Large,15.6
